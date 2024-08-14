@@ -22,7 +22,7 @@
 
 👉 <a href="https://github.com/Cheon-Young-Hwa/data-analyst-portfolio-Korean/blob/main/2.A%3AB_testing_mobile_game_KOR/ab_tesing_mobile_game_KOR.ipynb">프로젝트2 보기: 국문</a> 
 
-👉 <a href="https://github.com/Cheon-Young-Hwa/data-analyst-portfolio/blob/main/2.A%3AB_testing_mobile_game/ab_tesing_mobile_game_ENG.ipynb">프로젝트2 보기: 영문</a> 
+👉 <a href="https://github.com/Cheon-Young-Hwa/data-analyst-portfolio/blob/main/2.A%3AB_testing_mobile_game/ab_tesing_mobile_game_ENG.ipynb">(영문버전)</a> 
 
 
 
