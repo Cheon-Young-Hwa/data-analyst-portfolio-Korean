@@ -9,7 +9,7 @@
 
 👉 <a href="https://github.com/Cheon-Young-Hwa/data-analyst-portfolio-Korean/blob/main/1.bike_sharing_demand_prediction_KOR/biking_sharing_demand_KOR.ipynb">프로젝트1 보기: 국문</a>
 
-   <a href="https://github.com/Cheon-Young-Hwa/data-analyst-portfolio/blob/main/1.bike_sharing_demand_prediction/biking_sharing_demand_ENG.ipynb">  (영문버전)</a>
+👉 <a href="https://github.com/Cheon-Young-Hwa/data-analyst-portfolio/blob/main/1.bike_sharing_demand_prediction/biking_sharing_demand_ENG.ipynb">  (영문버전)</a>
 
 
 
@@ -35,4 +35,4 @@
 
 👉 <a href="https://github.com/Cheon-Young-Hwa/data-analyst-portfolio-Korean/blob/main/3.crm_analytics_KOR.ipynb">프로젝트3 보기: 국문</a>
 
-👉 <a href="https://github.com/Cheon-Young-Hwa/data-analyst-portfolio/blob/main/3.crm_analytics_ENG.ipynb">프로젝트3 보기: 영문</a> 
+👉 <a href="https://github.com/Cheon-Young-Hwa/data-analyst-portfolio/blob/main/3.crm_analytics_ENG.ipynb">(영문버전)</a> 
